@@ -4,5 +4,5 @@
 
 <b>screenshot_application - скриншот экрана </b>
 
-<b>Calculator - калкульятор <\b>
+<b>Calculator - калкульятор 
 
