@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons_of_clctr">
+        <file>calcuulator.png</file>
+    </qresource>
+</RCC>
